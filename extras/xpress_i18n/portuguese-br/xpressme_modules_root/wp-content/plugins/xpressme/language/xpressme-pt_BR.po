@@ -1,0 +1,757 @@
+# Copyright (c) 2005-2008 XPressME
+# This file is distributed under the same license as the XPressME package.
+# toemon <info@toemon.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: XPressME Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-30 14:27+0900\n"
+"PO-Revision-Date: 2010-04-30 14:28+0900\n"
+"Last-Translator: toemon <info@toemon.com>\n"
+"Language-Team: Marcelo Yuji Himoro <yuji@yuji.ws>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: C:\\XPressME_Project\\XPressME_SVN_Trunk\\xpressme_integration_kit\\wp-content\\plugins\\xpressme\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: xpressme.php:59
+msgid "Display Settings"
+msgstr "Configurações de exibição"
+
+#: xpressme.php:60
+msgid "Integration Settings"
+msgstr "Configurações de integração"
+
+#: xpressme.php:61
+msgid "Other Settings"
+msgstr "Outras configurações"
+
+#: xpressme.php:64
+msgid "Upgrade"
+msgstr "Atualizar"
+
+#: xpressme.php:65
+msgid "to Modules Admin"
+msgstr "Ir para a administração do Modules"
+
+#: xpressme.php:188
+msgid "XPressME Display Setting"
+msgstr "Configurações de exibição do XPressME"
+
+#: xpressme.php:194
+msgid "Thema Sidebar Display"
+msgstr "Exibir barra lateral no tema?"
+
+#: xpressme.php:195
+#: xpressme.php:288
+#: xpressme.php:294
+#: xpressme.php:299
+#: xpressme.php:305
+#: xpressme_class.php:451
+#: xpressme_class.php:469
+#: xpressme_class.php:600
+#: xpressme_class.php:611
+#: xpressme_class.php:635
+msgid "YES"
+msgstr "Sim"
+
+#: xpressme.php:196
+#: xpressme.php:289
+#: xpressme.php:295
+#: xpressme.php:300
+#: xpressme.php:306
+#: xpressme_class.php:452
+#: xpressme_class.php:470
+#: xpressme_class.php:601
+#: xpressme_class.php:612
+#: xpressme_class.php:636
+msgid "NO"
+msgstr "Não"
+
+#: xpressme.php:205
+#: xpressme.php:257
+#: xpressme.php:316
+msgid "Update Config"
+msgstr "Atualizar"
+
+#: xpressme.php:206
+#: xpressme.php:258
+#: xpressme.php:317
+msgid "Preset Config"
+msgstr "Padrão"
+
+#: xpressme.php:239
+msgid "XPressME Integration Setting"
+msgstr "Configurações de integração do XPressME"
+
+#: xpressme.php:243
+msgid "Media Upload Base Path"
+msgstr "Caminho base para uploads"
+
+#: xpressme.php:246
+msgid "Use XOOPS UPLOAD PATH"
+msgstr "Utilizar o diretório do XOOPS"
+
+#: xpressme.php:247
+msgid "USE WordPress BASE_PATH"
+msgstr "Utilizar o diretório do WordPress"
+
+#: xpressme.php:282
+msgid "XPressME Other Setting"
+msgstr "Outras configurações do XPressME"
+
+#: xpressme.php:287
+msgid "The change tracking of the post is preserved"
+msgstr "Ativar revisões dos posts?"
+
+#: xpressme.php:293
+msgid "Select Multi user mode"
+msgstr "Ativar modo multi-usuário?"
+
+#: xpressme.php:298
+msgid "Is the posts author views counted?"
+msgstr "Contar leituras do autor?"
+
+#: xpressme.php:304
+msgid "Is SQL debugging window displayed?"
+msgstr "Exibir janela de debug do SQL?"
+
+#: xpressme.php:309
+msgid "Select warning display of block file version check"
+msgstr "Exibição de advertência seleta de bloco cheque de versão de arquivo"
+
+#: xpressme.php:310
+msgid "Do display"
+msgstr "Exiba"
+
+#: xpressme.php:311
+msgid "Do not display"
+msgstr "Não exiba"
+
+#: xpressme_class.php:59
+#: xpressme_class.php:399
+msgid "Older Post"
+msgstr "Ir para o post anterior"
+
+#: xpressme_class.php:60
+#: xpressme_class.php:402
+msgid "Newer Post"
+msgstr "Ir para o post seguinte"
+
+#: xpressme_class.php:62
+#: xpressme_class.php:405
+msgid "Older Entries"
+msgstr "Ir para a página anterior"
+
+#: xpressme_class.php:63
+#: xpressme_class.php:408
+msgid "Newer Entries"
+msgstr "Ir para a página seguinte"
+
+#: xpressme_class.php:77
+#: xpressme_class.php:78
+#: xpressme_class.php:411
+msgid "Read the rest of this entry &raquo;"
+msgstr "Continuar lendo este post &raquo;"
+
+#: xpressme_class.php:511
+msgid "Single Post Navi Setting"
+msgstr "Post individual"
+
+#: xpressme_class.php:516
+#: xpressme_class.php:561
+msgid "Adjustment of Navi link display position"
+msgstr "Posicionamento de links"
+
+#: xpressme_class.php:519
+msgid "'Old Post Link' is displayed in the left, and 'Newer Post Link' is displayed in the right"
+msgstr "Exibir link para o post anterior à esquerda, e para o seguinte à direita"
+
+#: xpressme_class.php:520
+msgid "'Newer Post Link' is displayed in the left, and 'Old Post Link' is displayed in the right"
+msgstr "Exibir link para o post seguinte à esquerda, e para o anterior à direita"
+
+#: xpressme_class.php:526
+msgid "Select Display name of PostNavi Link"
+msgstr "Selecione o texto do link a ser exibido"
+
+#: xpressme_class.php:529
+msgid "Title of post"
+msgstr "Título do post"
+
+#: xpressme_class.php:530
+msgid "Title of Navi"
+msgstr "Personalizado"
+
+#: xpressme_class.php:536
+msgid "Display Navi Title of Old Post Link"
+msgstr "Texto do link para o post anterior"
+
+#: xpressme_class.php:543
+msgid "Display Navi Title of Newer Post Link"
+msgstr "Texto do link para o post seguinte"
+
+#: xpressme_class.php:556
+msgid "Posts List Page Navi Setting"
+msgstr "Lista de posts"
+
+#: xpressme_class.php:564
+msgid "'Old Page Link' is displayed in the left, and 'Newer Page Link' is displayed in the right"
+msgstr "Exibir link para o página anterior à esquerda, e para o seguinte à direita"
+
+#: xpressme_class.php:565
+msgid "'Newer Page Link' is displayed in the left, and 'Old Page Link' is displayed in the right"
+msgstr "Exibir link para o página seguinte à esquerda, e para o anterior à direita"
+
+#: xpressme_class.php:571
+msgid "Display Navi Title of Old Page Link"
+msgstr "Texto do link para o página anterior"
+
+#: xpressme_class.php:578
+msgid "Display Navi Title of Newer Page Link"
+msgstr "Texto do link para o página seguinte anterior"
+
+#: xpressme_class.php:591
+msgid "Dashboard feed Display Setting"
+msgstr "Painel feed Exibição Colocação"
+
+#: xpressme_class.php:597
+msgid "Display XPressMe Integration Kit Blog"
+msgstr "Exibição XPressME Integration Kit Blog"
+
+#: xpressme_class.php:608
+msgid "Display XPressMe Integration Kit Forum"
+msgstr "Exibição XPressME Integration Kit Folum"
+
+#: xpressme_class.php:626
+msgid "Role Setting at Login"
+msgstr "Permissões"
+
+#: xpressme_class.php:632
+msgid "XOOPS administrators role is set as all blog administrators."
+msgstr "XOOPS administradores papel é fixo como todos os administradores de blog."
+
+#: xpressme_class.php:641
+msgid "XOOPS Groupe"
+msgstr "Grupo do XOOPS"
+
+#: xpressme_class.php:641
+msgid "WordPress Role"
+msgstr "Permissão do WordPress"
+
+#: xpressme_class.php:641
+msgid "Role is set at each login"
+msgstr "Atualizar permissões ao fazer login"
+
+#: xpressme_class.php:646
+msgid "module cannot be read"
+msgstr "módulo não pode ser lido"
+
+#: xpressme_class.php:687
+#: xpressme_class.php:691
+#: xpressme_class.php:694
+msgid "Default Role of WordPress"
+msgstr "Permissão padrão do WordPress"
+
+#: xpressme_class.php:688
+#: xpressme_class.php:692
+#: xpressme_class.php:695
+msgid "Group User Doesn't Register"
+msgstr "Não cadastrar usuários"
+
+#: xpressme_class.php:708
+msgid "Only the Admin can set Group Role Setting"
+msgstr "Only the Admin can set Group Role Setting"
+
+#: xpressme_class.php:730
+msgid "WordPress MultiBlog cannot integrate the comments."
+msgstr "Não é possível integrar comentários no WordPress MultiBlog."
+
+#: xpressme_class.php:732
+msgid "Do Not Comment Integration."
+msgstr "Não integrar comentários"
+
+#: xpressme_class.php:767
+msgid "Create New Forum"
+msgstr "Crie Foro Novo"
+
+#: xpressme_class.php:779
+msgid "Comment integration with D3Forum"
+msgstr "Integração de comentários com o D3Forum"
+
+#: xpressme_class.php:781
+msgid "Select the forum of D3Forum that does the comment integration from the following lists."
+msgstr "Selecione o fórum do D3Forum com o qual os comentários serão integrados:"
+
+#: xpressme_class.php:786
+msgid "Select the Type of display of D3Forum comment."
+msgstr "Selecione o tipo de exibição dos comentários do D3Forum:"
+
+#: xpressme_class.php:788
+#: xpressme_class.php:791
+msgid "Flat"
+msgstr "Plano"
+
+#: xpressme_class.php:789
+#: xpressme_class.php:792
+msgid "Threaded"
+msgstr "Aninhado"
+
+#: xpressme_class.php:795
+msgid "Select the order of display of D3Forum comment."
+msgstr "Selecione a ordem de exibição dos comentários do D3Forum:"
+
+#: xpressme_class.php:797
+#: xpressme_class.php:800
+msgid "DESC"
+msgstr "Crescente"
+
+#: xpressme_class.php:798
+#: xpressme_class.php:801
+msgid "ASC"
+msgstr "Decrescente"
+
+#: xpressme_class.php:804
+msgid "Number of displays of D3Forum comments."
+msgstr "Número de comentários do D3Fórum a serem exibidos:"
+
+#: xpressme_class.php:807
+msgid "The import and the export between Wordpress Comments and the D3Forum Posts can be done. "
+msgstr "Importar/exportar comentários entre o WordPress e o D3Forum"
+
+#: xpressme_class.php:808
+msgid "Export to D3Forum"
+msgstr "Exportar para o D3Forum"
+
+#: xpressme_class.php:809
+msgid "Import from D3Forum"
+msgstr "Importar para o D3Forum"
+
+#: xpressme_class.php:822
+msgid "Contents Excerpt Setting"
+msgstr "Excerto"
+
+#: xpressme_class.php:827
+msgid "Is the excerpt display done with the archive of contents?"
+msgstr "Exibir excertos nos arquivos?"
+
+#: xpressme_class.php:834
+msgid "When ASCII character more than the set ratio is included, it is judged ASCII contents. "
+msgstr "Quando um excerto contiver mais caracteres ASCII do que o valor definido, ele será tratado como ASCII."
+
+#: xpressme_class.php:841
+msgid "Excerpt length of word for ASCII contents"
+msgstr "N° de caracteres para excerto de conteúdo ASCII"
+
+#: xpressme_class.php:848
+msgid "Excerpt length of character for multibyte contents"
+msgstr "N° de caracteres para excerto de conteúdo multi-byte"
+
+#: xpressme_class.php:855
+msgid "This text is displayed in the link that reads contents not excerpted.(Is not displayed for the blank.)"
+msgstr "Texto do link para o texto completo do post (deixe em branco para não exibir)"
+
+#: xpressme_class.php:862
+msgid "This text is displayed in the link that more tag (&lt;!--more--&gt;). "
+msgstr "Texto do link para posts com a tag &lt;!--more--&gt;:"
+
+#: xpressme_class.php:874
+msgid "Display Mode Setting"
+msgstr "Modo de exibição"
+
+#: xpressme_class.php:877
+msgid "Select the XPressME Display Mode."
+msgstr "Selecione o modo de exibição do XPressME"
+
+#: xpressme_class.php:882
+msgid "Xoops Mode"
+msgstr "XOOPS"
+
+#: xpressme_class.php:886
+msgid "WordPress Mode"
+msgstr "WordPress"
+
+#: xpressme_class.php:890
+msgid "User select"
+msgstr "Selecionar usuário"
+
+#: xpressme_class.php:895
+msgid "Select the theme used in the XOOPS Mode."
+msgstr "Selecione o tema usado no Modo de XOOPS."
+
+#: xpressme_class.php:900
+msgid "Use WordPress Selected Themes"
+msgstr "Uso WordPress Selected Temas"
+
+#: xpressme_class.php:918
+msgid "Header Meta Option"
+msgstr "Meta Header"
+
+#: xpressme_class.php:923
+msgid "Select the Header keyword."
+msgstr "Selecione as palavras-chave a serem utilizadas:"
+
+#: xpressme_class.php:928
+msgid "Xoops KeyWord"
+msgstr "XOOPS"
+
+#: xpressme_class.php:931
+msgid "WordPress KeyWord"
+msgstr "WordPress"
+
+#: xpressme_class.php:934
+msgid "WordPress & Xoops KeyWord"
+msgstr "WordPress e XOOPS"
+
+#: xpressme_class.php:940
+msgid "Select the Header Description."
+msgstr "Selecione a descrição a ser utilizada:"
+
+#: xpressme_class.php:945
+msgid "Xoops Description"
+msgstr "XOOPS"
+
+#: xpressme_class.php:948
+msgid "WordPress Description"
+msgstr "WordPress"
+
+#: xpressme_class.php:951
+msgid "WordPress & Xoops Description"
+msgstr "WordPress e XOOPS"
+
+#: xpressme_class.php:957
+msgid "Select the Header Robots Index."
+msgstr "Selecione o robô de indexação a ser utilizado no cabeçalho:"
+
+#: xpressme_class.php:962
+msgid "Xoops Robots Index"
+msgstr "XOOPS"
+
+#: xpressme_class.php:965
+msgid "WordPress Robots Index"
+msgstr "WordPress"
+
+#: xpressme_class.php:1011
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Não foi possível criar o diretório %s. Verifique as permissões de escrita do servidor."
+
+#: xpressme_widget_class.php:17
+msgid "XPressME User Menu Widget"
+msgstr "XPressME User Menu Widget"
+
+#: xpressme_widget_class.php:19
+msgid "XPressME MENU"
+msgstr "XPressME MENU"
+
+#: xpressme_widget_class.php:143
+#: xpressme_widget_class.php:195
+#: xpressme_widget_class.php:200
+#: xpressme_widget_class.php:205
+msgid "Link"
+msgstr "Ligação"
+
+#: xpressme_widget_class.php:144
+#: xpressme_widget_class.php:160
+msgid "Site Home"
+msgstr "Site Home"
+
+#: xpressme_widget_class.php:145
+#: xpressme_widget_class.php:165
+msgid "Add New"
+msgstr "Some Novo"
+
+#: xpressme_widget_class.php:146
+#: xpressme_widget_class.php:170
+msgid "User Profile"
+msgstr "Perfil de usuário"
+
+#: xpressme_widget_class.php:147
+#: xpressme_widget_class.php:176
+msgid "WordPress Admin"
+msgstr "WordPress Admin"
+
+#: xpressme_widget_class.php:148
+#: xpressme_widget_class.php:181
+msgid "Module Admin"
+msgstr "Module Admin"
+
+#: xpressme_widget_class.php:149
+#: xpressme_widget_class.php:186
+msgid "XPressME Setting"
+msgstr "Colocação de XPressME"
+
+#: xpressme_widget_class.php:150
+msgid "Display Mode Select"
+msgstr "Exiba Modo Selecione"
+
+#: xpressme_widget_class.php:152
+#: xpressme_widget_class.php:171
+msgid "Auto Setting"
+msgstr "Colocação de auto"
+
+#: xpressme_widget_class.php:157
+msgid "User Menu"
+msgstr "User Menu"
+
+#: xpressme_widget_class.php:245
+msgid "Title:"
+msgstr "Title:"
+
+#: include/custom_functions.php:113
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Link permanente para %s"
+
+#: include/custom_functions.php:470
+#: include/custom_functions.php:503
+#, php-format
+msgid "views :%d"
+msgstr "Leituras: %d"
+
+#: include/custom_functions.php:667
+msgid "Main"
+msgstr "Principal"
+
+#: include/custom_functions.php:670
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Arquivo da categoria &#8216;%s&#8217;"
+
+#: include/custom_functions.php:673
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Posts com a tag &#8216;%s&#8217; "
+
+#: include/custom_functions.php:676
+#, php-format
+msgid "Archive for %s|Daily archive page"
+msgstr "Arquivo de %s|Arquivo por dia"
+
+#: include/custom_functions.php:676
+msgid "F jS, Y"
+msgstr "j \\d\\e F \\d\\e Y"
+
+#: include/custom_functions.php:678
+#, php-format
+msgid "Archive for %s|Monthly archive page"
+msgstr "Arquivo de %s|Arquivo por mês"
+
+#: include/custom_functions.php:678
+msgid "F, Y"
+msgstr "F \\d\\e Y"
+
+#: include/custom_functions.php:680
+#, php-format
+msgid "Archive for %s|Yearly archive page"
+msgstr "Arquivo de %s|Arquivo por ano"
+
+#: include/custom_functions.php:680
+msgid "Y"
+msgstr "Y"
+
+#: include/custom_functions.php:683
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Author"
+msgstr "Arquivo do autor &#8216;%s&#8217;"
+
+#: include/custom_functions.php:686
+#, php-format
+msgid "Search Results of word &#8216;%s&#8217;"
+msgstr "Resultados da pesquisa por &#8216;%s&#8217;"
+
+#: include/custom_functions.php:692
+#: include/custom_functions.php:694
+#, php-format
+msgid "Article of %s"
+msgstr "Posts de %s"
+
+#: include/custom_functions.php:716
+#, php-format
+msgid "From %1$s on site %2$s"
+msgstr "De %2$s em %1$s"
+
+#: include/custom_functions.php:737
+msgid "No Trackback/Pingback"
+msgstr "Nenhum trackback/pingback"
+
+#: include/custom_functions.php:738
+msgid "One Trackback/Pingback"
+msgstr "1 trackback/pingback"
+
+#: include/custom_functions.php:739
+msgid "% TrackBack/Pingback"
+msgstr "% trackbacks/pingbacks"
+
+#: include/custom_functions.php:917
+msgid "Tags:"
+msgstr ""
+
+#: include/custom_functions.php:960
+msgid "Comments (0)"
+msgstr ""
+
+#: include/custom_functions.php:960
+msgid "Comments (1)"
+msgstr ""
+
+#: include/custom_functions.php:960
+msgid "Comments (%)"
+msgstr ""
+
+#: include/custom_functions.php:964
+#, fuzzy, php-format
+msgid "Views :%d"
+msgstr "Leituras: %d"
+
+#: include/custom_functions.php:1042
+msgid "Create New Blog"
+msgstr "Crie Blog Novo"
+
+#: include/custom_functions.php:1068
+msgid "Your Primary Blog"
+msgstr "Seu Blog Primário"
+
+#: include/dashboard_feed.php:19
+msgid "XPressME Integration Kit Blog"
+msgstr "XPressME Integration Kit Blog"
+
+#: include/dashboard_feed.php:32
+msgid "XPressME Integration Kit Folum"
+msgstr "XPressME Integration Kit Folum"
+
+#: include/dashboard_feed.php:92
+msgid "Unknown Feed"
+msgstr "Feed desconhecido"
+
+#: include/functions_for_wp_old.php:21
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr "<strong>ERRO</strong>: campo de senha não preenchido."
+
+#: include/functions_for_wp_old.php:29
+msgid "<strong>ERROR</strong>: Invalid username."
+msgstr "<strong>ERRO</strong>: nome de usuário inválido."
+
+#: include/functions_for_wp_old.php:37
+msgid "<strong>ERROR</strong>: Incorrect password."
+msgstr "<strong>ERRO</strong>: senha inválida."
+
+#: include/pluggable-override.php:265
+#, php-format
+msgid "If the page does not automatically reload, please click <a href='%s'>here</a>"
+msgstr "Se a página não atualizar automaticamente, clique <a href='%s'>aqui</a>."
+
+#: include/xpress_common_functions.php:8
+msgid "After Blog address (URL) is set, it is necessary to set the permalink again."
+msgstr "Depois que endereço de Blog (URL) for fixo, é necessário fixar o permalink novamente."
+
+#: include/xpress_common_functions.php:9
+msgid "Can not access WordPress address (URL)."
+msgstr "Não pode acessar endereço de WordPress (URL)."
+
+#: include/xpress_common_functions.php:10
+msgid "WordPress Blog address (URL) is different from access URL."
+msgstr "WordPress Blog endereço (URL) é diferente de URL de acesso."
+
+#: include/xpress_common_functions.php:210
+msgid "Themes"
+msgstr "Temas"
+
+#: include/xpress_common_functions.php:225
+msgid "Switch to XOOPS mode"
+msgstr "Mudar para o XOOPS"
+
+#: include/xpress_common_functions.php:229
+#: include/xpress_common_functions.php:232
+msgid "Switch to WordPress mode"
+msgstr "Mudar para o WordPress"
+
+#: include/xpress_common_functions.php:390
+#, php-format
+msgid "Block file %1$s is an old version %2$s.<br />used block file %3$s of new version %4$s."
+msgstr "Bloco arquivo %1$s são uma versão velha %2$s.<br />bloco usado arquivo %3$s de versão nova %4$s."
+
+#: include/xpress_upgrade.php:13
+msgid "XPressME Upgrade"
+msgstr "XPressME Atualizar"
+
+#: include/xpress_upgrade.php:27
+#, php-format
+msgid "You are using a XPressME Integration Kit development version (%1$s). Cool! Please <a href=\"%2$s\">stay updated</a>."
+msgstr "Você está usando uma versão para XPressME Integration Kit desenvolvedores (%1$s). Legal! Por favor, <a href=\"%2$s\">mantenha-se atualizado</a>."
+
+#: include/xpress_upgrade.php:31
+msgid "There is a new version of XPressME Integration Kit available for upgrade"
+msgstr "Há uma versão nova do XPressME Integration Kit disponível para atualização"
+
+#: include/xpress_upgrade.php:33
+#, php-format
+msgid "You can upgrade to version %s download the package and install it manually:"
+msgstr "Você pode atualizar para a versão %s  fazer o download e instalar manualmente:"
+
+#: include/xpress_upgrade.php:36
+#: include/xpress_upgrade.php:60
+#, php-format
+msgid "Download %s"
+msgstr "Download %s"
+
+#: include/xpress_upgrade.php:41
+#: include/xpress_upgrade.php:68
+#, php-format
+msgid "You can download the differential file from version %s to %s and upgrade it manually:"
+msgstr "You can download the differential file from version %s to %s and upgrade it manually:"
+
+#: include/xpress_upgrade.php:44
+#: include/xpress_upgrade.php:71
+#, php-format
+msgid "Download differential file for %s"
+msgstr "Download differential file for %s"
+
+#: include/xpress_upgrade.php:48
+msgid "You have the latest version of XPressME Integration Kit. You do not need to upgrade"
+msgstr "Sua versão do XPressME Integration Kit é a mais recente. Não é necessário atualizá-la."
+
+#: include/xpress_upgrade.php:57
+#, php-format
+msgid "You can use the development version %s download the package and install it manually:"
+msgstr "You can use the development version %s download the package and install it manually:"
+
+#: include/xpress_upgrade.php:78
+#, php-format
+msgid "There is no response from <a href=\"%s\">version check API</a> now. sorry, please confirm it after."
+msgstr "Não há nenhuma resposta de <a href=\"%s\">cheque de versão API</a> agora. arrependido, por favor confirme depois de."
+
+#: include/xpress_upgrade.php:235
+#, php-format
+msgid "XPressME Integration Kit Version %1$s is available! <a href=\"%2$s\">Please update now</a>."
+msgstr "O XPressME Integration Kit %1$s está disponível! <a href=\"%2$s\">Por favor, atualize agora</a>."
+
+#: include/xpress_upgrade.php:237
+#, php-format
+msgid "XPressME Integration Kit Version %1$s is available! Please notify the site administrator."
+msgstr "O XPressME Integration Kit Versão %1$s está disponível! Por favor, avise o administrador do site."
+
+#~ msgid "Title"
+#~ msgstr "Title"
+#~ msgid "URL"
+#~ msgstr "URL"
+#~ msgid "more"
+#~ msgstr "続きを読む"
+#~ msgid "More Link Text (Is not displayed for the blank.)"
+#~ msgstr "Moreリンクテキスト（ブランクの場合リンクを表示しません。）"
+#~ msgid "Calendar"
+#~ msgstr "カレンダー"
+#~ msgid "%1$s %2$s|Used as a calendar caption"
+#~ msgstr "%2$s 年 %1$s|カレンダーのキャプションに使われます"
+#~ msgid "View posts for %1$s %2$s"
+#~ msgstr "%2$s年%1$sの投稿を表示"
+#~ msgid "XPressME Configuration Page"
+#~ msgstr "XPressMEの設定ページ"
+
